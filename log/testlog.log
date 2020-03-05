@@ -1,0 +1,46 @@
+2020-01-23 01:25:35,613 - ebanking -INFO - Url is Open
+2020-01-23 01:25:36,563 - ebanking -INFO - entered UserName
+2020-01-23 01:25:36,693 - ebanking -INFO - entered password
+2020-01-23 01:25:38,793 - ebanking -INFO - loginTest Pass
+2020-01-23 01:25:38,795 - ebanking -INFO - logintest fail
+2020-01-23 01:27:24,896 - ebanking Hybrid Project -INFO - Url is Open
+2020-01-23 01:27:25,058 - ebanking Hybrid Project -INFO - entered UserName
+2020-01-23 01:27:25,164 - ebanking Hybrid Project -INFO - entered password
+2020-01-23 01:27:26,366 - ebanking Hybrid Project -INFO - loginTest Pass
+2020-01-23 01:27:26,366 - ebanking Hybrid Project -INFO - logintest fail
+2020-01-24 02:03:01,195 - ebanking Hybrid Project -INFO - Url is Open
+2020-01-24 02:03:01,565 - ebanking Hybrid Project -INFO - entered UserName
+2020-01-24 02:03:01,715 - ebanking Hybrid Project -INFO - entered password
+2020-01-24 02:03:03,099 - ebanking Hybrid Project -INFO - loginTest Pass
+2020-01-24 02:03:03,099 - ebanking Hybrid Project -INFO - logintest fail
+2020-01-24 02:06:25,160 - ebanking Hybrid Project -INFO - Url is Open
+2020-01-24 02:06:25,368 - ebanking Hybrid Project -INFO - entered UserName
+2020-01-24 02:06:25,501 - ebanking Hybrid Project -INFO - entered password
+2020-01-24 02:06:27,018 - ebanking Hybrid Project -INFO - loginTest Pass
+2020-01-24 02:06:27,018 - ebanking Hybrid Project -INFO - logintest fail
+2020-01-24 02:34:58,554 - ebanking Hybrid Project -INFO - Url is Open
+2020-01-24 02:34:58,757 - ebanking Hybrid Project -INFO - entered UserName
+2020-01-24 02:34:58,883 - ebanking Hybrid Project -INFO - entered password
+2020-01-24 02:35:00,433 - ebanking Hybrid Project -INFO - loginTest Pass
+2020-01-24 02:35:00,434 - ebanking Hybrid Project -INFO - logintest fail
+2020-01-24 02:38:01,105 - ebanking Hybrid Project -INFO - Url is Open
+2020-01-24 02:38:56,043 - ebanking Hybrid Project -INFO - Url is Open
+2020-01-24 02:38:56,243 - ebanking Hybrid Project -INFO - entered UserName
+2020-01-24 02:38:56,340 - ebanking Hybrid Project -INFO - entered password
+2020-01-24 02:39:05,034 - ebanking Hybrid Project -INFO - loginTest Pass
+2020-01-24 02:39:05,035 - ebanking Hybrid Project -INFO - logintest fail
+2020-01-29 01:24:01,083 - ebanking Hybrid Project -INFO - Url is Open
+2020-01-29 01:24:01,240 - ebanking Hybrid Project -INFO - entered UserName
+2020-01-29 01:24:01,292 - ebanking Hybrid Project -INFO - entered password
+2020-01-29 01:24:08,943 - ebanking Hybrid Project -INFO - loginTest Pass
+2020-01-29 01:24:08,944 - ebanking Hybrid Project -INFO - logintest fail
+2020-01-30 12:15:50,536 - ebanking Hybrid Project -INFO - Url is Open
+2020-01-30 12:15:50,834 - ebanking Hybrid Project -INFO - entered UserName
+2020-01-30 12:15:50,874 - ebanking Hybrid Project -INFO - entered password
+2020-01-30 12:16:06,479 - ebanking Hybrid Project -INFO - loginTest Pass
+2020-01-30 12:16:06,480 - ebanking Hybrid Project -INFO - login test fail
+2020-01-30 12:25:02,005 - ebanking Hybrid Project -INFO - Url is Open
+2020-01-30 12:25:02,168 - ebanking Hybrid Project -INFO - entered UserName
+2020-01-30 12:25:02,209 - ebanking Hybrid Project -INFO - entered password
+2020-01-30 12:25:19,520 - ebanking Hybrid Project -INFO - loginTest Pass
+2020-01-30 12:25:19,520 - ebanking Hybrid Project -INFO - login test fail

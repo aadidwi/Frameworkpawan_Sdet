@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="InternetBank" duration-ms="60784" started-at="2020-01-30T12:24:26 IST" finished-at="2020-01-30T12:25:27 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="60784" started-at="2020-01-30T12:24:26 IST" finished-at="2020-01-30T12:25:27 IST">
+      <class name="com.inetbanking.TestCases.Login_Test001">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.inetbanking.TestCases.Login_Test001@26aa12dd]" name="setup" is-config="true" duration-ms="7436" started-at="2020-01-30T12:24:26 IST" finished-at="2020-01-30T12:24:34 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.inetbanking.TestCases.Login_Test001@26aa12dd]" name="loginTest" duration-ms="45412" started-at="2020-01-30T12:24:34 IST" finished-at="2020-01-30T12:25:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.inetbanking.TestCases.Login_Test001@26aa12dd]" name="tearDown" is-config="true" duration-ms="7874" started-at="2020-01-30T12:25:19 IST" finished-at="2020-01-30T12:25:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.inetbanking.TestCases.Login_Test001 -->
+    </test> <!-- Test -->
+  </suite> <!-- InternetBank -->
+</testng-results>
